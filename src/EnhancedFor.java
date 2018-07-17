@@ -13,6 +13,7 @@ public class EnhancedFor {
         }
 
         Collection c = new ArrayList();
+        System.out.println("");
 
         c.add(new String("aaa"));
         c.add(new String("bbb"));
