@@ -13,7 +13,7 @@ import java.util.HashMap;
 public class ForDemo {
     private static final Integer ONE = new Integer(1);//为什么加这句话
     public static void main(String args[]) {
-        String[] args = {"aaa","bbb","ccc","aaa","ddd","ccc","ccc"};
+        /*String[] args = {"aaa","bbb","ccc","aaa","ddd","ccc","ccc"};
         Map m = new HashMap<>();
         for (int i = 0;i<args.length;i++){//什么意思
             Integer freq = (Integer) m.get(args[i]);//freq什么意思,这句话为什么要用这种方式人
@@ -21,7 +21,7 @@ public class ForDemo {
         }
         System.out.println
                 (m.size() + "distinct words detected:");
-        System.out.println(m);
+        System.out.println(m);*/
        
     }
 
